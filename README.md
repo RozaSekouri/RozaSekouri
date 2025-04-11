@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RozaSekouri
+- 👋 Hi, I’m @RozaSekouri and I am a Data Analyst 
 - 👀 I’m interested in Metal, Board games and Sushi :D
 - 🌱 I’m currently learning Data Science and AI 
 - 💞️ I’m looking for a new carreer 
